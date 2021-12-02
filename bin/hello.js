@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-a = 123;  // test
 const { program } = require("commander");
 const debug = require('debug')('hello');
 
