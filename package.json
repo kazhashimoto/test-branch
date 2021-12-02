@@ -1,5 +1,5 @@
 {
-  "name": "@kazhashimoto/hello",
+  "name": "@kazhashimoto/test-branch",
   "version": "1.0.8",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kazhashimoto/hello.git"
+    "url": "git+https://github.com/kazhashimoto/test-branch.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kazhashimoto/hello/issues"
+    "url": "https://github.com/kazhashimoto/test-branch/issues"
   },
-  "homepage": "https://github.com/kazhashimoto/hello#readme",
+  "homepage": "https://github.com/kazhashimoto/test-branch#readme",
   "dependencies": {
     "commander": "^8.0.0",
     "debug": "^4.3.2"
