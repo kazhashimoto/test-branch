@@ -1,0 +1,34 @@
+{
+  "name": "@kazhashimoto/hello",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hello": "bin/hello.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint bin/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazhashimoto/hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazhashimoto/hello/issues"
+  },
+  "homepage": "https://github.com/kazhashimoto/hello#readme",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "debug": "^4.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
