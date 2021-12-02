@@ -6,7 +6,7 @@ const debug = require('debug')('hello');
 
 program
   .name('hello')
-  .version('1.0.9')
+  .version('1.0.10')
   .usage('[options]')
   .showHelpAfterError()
   .option('-u, --upper', 'convert the message to upper case');
