@@ -1,6 +1,6 @@
 # test-branch
 このリポジトリはブランチの練習用です。
-aaaasdcasdcasdcas
+12345678
 
 helloはターミナルに"hello, world!"を表示する、Node.jsを使ったコマンドラインのJavaScriptプログラムです。
 このRepositoryは、npmパッケージの作成からGitHub Packagesへ登録するまでの手順を試すための練習用のリソースです。
